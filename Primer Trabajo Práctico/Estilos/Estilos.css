@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Spectral:ital,wght@1,200&display=swap');
+
+html{
+    font-family:'Gentium Basic', serif;
+    font-size: 110%;}
+
+#seleccionable_blanco_Cinzel{
+    color: aliceblue;
+    font-family: 'Cinzel', serif;
+    font-size: 120%;
+    font-weight: bold;}
+#Posicion_Seleccionables_Header{
+    float:right;}
+#Posicion_Seleccionable_DOS{
+    float:right;
+    position: relative;right: 2%; top: 10%;}
+#seleccionable_blanco_Cinzel_Header{ 
+    color: aliceblue;
+    font-family: 'Cinzel', serif;
+    font-size: 100%;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    list-style:none;
+    margin: 5px;}
+    
+#Letras_Blancas{
+    color: white;}
+
+
+
+
+
+ul{
+    list-style: none;}
+
+body{
+    height: 100vh;}
+
+header{
+    background-image:url("..//Imagenes/Fondos/fondo\ para\ el\ hidery\ footer\ b3.jpg") ;
+    height: 8%;
+    width: 100%;}
+    
+
+
+
+#section_Vertical{
+    background-image: url("../Imagenes/Fondo\ Vertical.jpg");
+    background-repeat: round;
+    width: 19.9%;}
+
+
+#section_Vertical_2{
+    background-image:url("..//Imagenes/Fondo\ para\ videos\ mas\ grande.jpg");
+    background-repeat: round;
+    position: relative;left: 19.9%;
+    position: relative;bottom:100%;
+    width: 80.1%;}
+
+#section_Vertical_3{
+    background-image: url("../Imagenes/Fondo\ Vertical.jpg");
+    float: right;
+    background-repeat: round;
+    position: relative;
+    width: 19.9%}
+
+#section_Vertical_4{
+    background-image:url("..//Imagenes/Fondo\ para\ videos\ mas\ grande.jpg");
+    background-repeat: round;
+    width: 80.1%;}
+
+
+
+
+#section_uno{
+    background-image: url("..//Imagenes/Fondos/fondo\ para\ main\ etc.jpg");
+    background-repeat: round;
+    height:15%;
+    width: 100%;}
+#section_dos{
+    background-image: url("..//Imagenes/Fondos/fondo\ para\ el\ video.jpg");
+    background-repeat: round;
+    height: 85%;
+    width: 100%;}
+#section_tres{
+    background-image: url("..//Imagenes/Fondos/fondo\ para\ main\ etc.jpg");
+    background-repeat: round;
+    height: 15%;
+    width: 100%;}
+   
+
+
+article{
+    background-image: url("..//Imagenes/Fondos/fondo\ para\ el\ video.jpg");
+    height: 10%;}
+#articulo_cosas{
+    background-image: url("../Imagenes/Fondos/fondos\ para\ main\ nuevo.jpg");
+    background-repeat: round;
+    height: 20%;}
+.fondo__para__productos{
+    text-align: center;
+    position:relative; top: 2% }
+.texto__centrado{
+    color: aliceblue;
+    font-family: 'Cinzel', serif;
+    font-size: 150%;
+    font-weight: bold;
+    text-shadow: 4px 4px 6px black;
+    text-align: center;}
+.texto__color__sin__centrar{
+    color: aliceblue;
+    font-family: 'Cinzel', serif;
+    font-size: 150%;
+    font-weight: bold;
+    text-shadow: 4px 4px 6px black;}
+
+
+
+.Box__Uno{
+    border: solid 5px black;
+    border-right: solid 0px;
+    margin-right: 88%;
+    height: 143px;
+    position: relative; top: 65px}
+.Box__Dos{
+    background-image: url("..//Imagenes/Fondos/fondo\ para\ el\ video.jpg");
+    border: solid 5px black;
+    margin-left: 11.9%;
+    height: 143px;
+    position: relative; bottom: 88px;}
+.Box__Tres{
+    border: solid 5px black;
+    margin-right: 88%;
+    height: 143px;}
+
+
+
+.Parrafo__de__Contacto{
+    font-size: 120%; 
+    color: aliceblue;
+    font-family:'Gentium Basic', serif;
+    font-size: 110%;
+    text-align: center;}
+
+nav{
+    font-weight: bold;}
+    
+footer{
+    background-image:url("..//Imagenes/Fondos/fondo\ para\ el\ hidery\ footer\ b3.jpg");
+    height: 20%;
+    width: 100%;}
+
+*{
+    margin: 0;
+    padding: 0;}
