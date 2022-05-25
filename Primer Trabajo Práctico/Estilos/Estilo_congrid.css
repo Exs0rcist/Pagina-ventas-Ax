@@ -62,7 +62,10 @@ html{
         grid-area: footer;
         background-image: url("../Imagenes/Fondos/fondo\ para\ el\ hidery\ footer\ b3.jpg");
         color: white;
+        font-family:'Gentium Basic', serif;
+        font-size: 110%;
         text-shadow: -2px  3px 0 black;
+        line-height: 100%;
     }
 
     .Box__Copyright{
@@ -185,6 +188,10 @@ html{
 
     .Sangría{
         margin-left: 1%;
+        line-height: 95%;
+    }
+    #body__index{
+    background-image: url("../Imagenes/Fondos/fondo\ para\ el\ hidery\ footer\ b3.jpg");
     }
 
 /* Finaliza la Parte de Index*/
@@ -242,7 +249,8 @@ footer#Footer__Productos{
     grid-area: footer_P;
     background-image: url("../Imagenes/Fondos/fondo\ para\ el\ hidery\ footer\ b3.jpg");
     border: solid black 1px;
-    color: white;
+    color: white
+    ;
     text-shadow: -2px  3px 0 black;}
     
 
